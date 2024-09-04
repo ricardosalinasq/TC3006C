@@ -1,1 +1,5 @@
-Dentro de esta carpeta se encuentran dos archivos, el descargable de la actividad y un PDF el cual muestra una vista previa del contenido
+Dentro de esta carpeta se encuentran dos archivos
+
+Codigo descargable: Análisis_y_Reporte_sobre_el_desempeño_del_modelo_.ipynb
+
+PDF del Entregable: Análisis_y_Reporte_sobre_el_desempeño_del_modelo_.pdf
